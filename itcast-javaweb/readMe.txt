@@ -1,0 +1,2 @@
+关于package的声明：
+com.xml01是第一天关于xml课程的所有文件
